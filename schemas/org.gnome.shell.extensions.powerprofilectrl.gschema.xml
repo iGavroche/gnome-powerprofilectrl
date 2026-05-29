@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.powerprofilectrl"
+          path="/org/gnome/shell/extensions/powerprofilectrl/">
+    <key name="show-notifications" type="b">
+      <default>true</default>
+      <summary>Show notifications</summary>
+      <description>Show a notification when the power profile changes.</description>
+    </key>
+  </schema>
+</schemalist>

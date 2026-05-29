@@ -1,0 +1,16 @@
+{
+  "name": "Power Profile Controller",
+  "description": "Switch power profiles (performance, balanced, power-saver) from the Quick Settings menu",
+  "uuid": "powerprofilectrl@iGavroche",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/iGavroche/gnome-powerprofilectrl",
+  "session-modes": ["user", "unlock-dialog"],
+  "settings-schema": "org.gnome.shell.extensions.powerprofilectrl"
+}
